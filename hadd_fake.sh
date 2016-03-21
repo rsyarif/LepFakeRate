@@ -1,0 +1,2 @@
+mv fakeeventloop_Data2lep.root fakeeventloop_Data2lep_prev.root
+hadd fakeeventloop_Data2lep.root fakeeventloop_DATA1ele1muPRDf.root fakeeventloop_DATA1ele1muRRCf.root fakeeventloop_DATA1ele1muRRDf.root fakeeventloop_DATA2elePRDf.root fakeeventloop_DATA2eleRRCf.root fakeeventloop_DATA2eleRRDf.root fakeeventloop_DATA2muPRDf.root fakeeventloop_DATA2muRRDf.root
